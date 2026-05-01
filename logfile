@@ -1,9 +1,0 @@
-2026-05-01 19:42:20.459 +03 [84875] FATAL:  lock file "postmaster.pid" already exists
-2026-05-01 19:42:20.459 +03 [84875] HINT:  Is another postmaster (PID 61644) running in data directory "/home/purderaf/.local/share/mise/installs/postgres/18.3/data"?
-2026-05-01 19:42:34.102 +03 [84898] LOG:  starting PostgreSQL 18.3 on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14+deb12u1) 12.2.0, 64-bit
-2026-05-01 19:42:34.103 +03 [84898] LOG:  listening on IPv4 address "127.0.0.1", port 5432
-2026-05-01 19:42:34.117 +03 [84898] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
-2026-05-01 19:42:34.135 +03 [84904] LOG:  database system was shut down at 2026-05-01 19:42:32 +03
-2026-05-01 19:42:34.148 +03 [84898] LOG:  database system is ready to accept connections
-2026-05-01 19:47:34.235 +03 [84902] LOG:  checkpoint starting: time
-2026-05-01 19:49:06.599 +03 [84902] LOG:  checkpoint complete: wrote 919 buffers (5.6%), wrote 3 SLRU buffers; 0 WAL file(s) added, 0 removed, 0 recycled; write=92.246 s, sync=0.089 s, total=92.365 s; sync files=305, longest=0.007 s, average=0.001 s; distance=4122 kB, estimate=4122 kB; lsn=0/1B41FF0, redo lsn=0/1B41F60
