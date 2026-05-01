@@ -15,9 +15,8 @@ postgres = "18.3"
 `
 Step 3 — install tools
 `mise install`
-
-note: build-essential & libncurses5-deb & libncursesw5.dev is depeedencies for compiling erlang
-
+Compilation dependencies:
+build-essential libreadline-dev zlib1g-dev libssl-dev libxml2-dev libxslt1-dev libperl-dev python3-dev libipc-run-perl uuid-dev libssl-dev notify-tools watchman uuid-dev flex bison libncurses5-dev libncursesw5-dev
 Step 4 — start Postgres
 
 `pg_ctl start -l logfile`

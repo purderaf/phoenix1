@@ -1,5 +1,5 @@
 [tools]
-erlang = "28.5"
+erlang = "latest"
 elixir = "1.19.5"
 node = "24.15.0"
 postgres = "18.3"
